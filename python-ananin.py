@@ -1,4 +1,0 @@
-
-
-
-print("ananin ami")
